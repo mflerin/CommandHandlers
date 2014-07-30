@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 
 //ref: http://goodenoughsoftware.net/2013/11/
+//ref:http://www.infoq.com/presentations/8-lines-code-refactoring
 // Greg Young's article how to use partial application like DI.
 namespace CommandHandlers
 {
